@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mostafa Ashraf, a Front-End React Developer, and a passionate gamer.
+I'm Mostafa Ashraf, a Front-End Developer, and a passionate gamer.
 
 🔭 I’m currently working on building awesome React applications to create user-friendly and interactive web experiences.
 
