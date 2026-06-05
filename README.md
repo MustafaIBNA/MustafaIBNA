@@ -35,12 +35,12 @@ When I'm not pushing pixels, I'm probably deep in a game — no regrets. 🎮
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaIBNA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaIBNA&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-ashraf-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-ashraf-dev&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaIBNA&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-ashraf-dev&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
