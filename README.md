@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Mostafa+Ashraf+👋;Front-End+Developer+%E2%9A%9B%EF%B8%8F;React+Enthusiast+%F0%9F%9A%80;Passionate+Gamer+%F0%9F%8E%AE" alt="Typing SVG" />
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ashraf-dev/)
 
 </div>
@@ -33,11 +29,6 @@ When I'm not pushing pixels, I'm probably deep in a game — no regrets. 🎮
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-ashraf-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-ashraf-dev&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-ashraf-dev&theme=tokyonight&hide_border=true" />
